@@ -1,6 +1,7 @@
 from collections import Counter
 import matplotlib.pyplot as plt
 import subprocess
+import re
 
 
 GENETIC_CODE = {
@@ -119,6 +120,7 @@ def plot_codons(counts, number=10):
 
     print("\nChart saved as top_codons.png")
 
+
 def create_llm_prompt(top_codons):
     amino_acids = []
 
@@ -176,6 +178,14 @@ Return only the table.
 """
 
     return prompt
+
+
+def clean_ansi(text):
+    ansi_escape = re.compile(
+        r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])'
+    )
+
+    return ansi_escape.sub('', text)
 
 
 def ask_ollama(prompt, model="llama3.2"):
@@ -246,8 +256,15 @@ def main():
     answer = ask_ollama(prompt)
 
     if answer:
+        clean_answer = clean_ansi(answer)
+
         print("\nLLM response:")
-        print(answer)
+        print(clean_answer)
+
+        with open("llm_foods.txt", "w", encoding="utf-8") as file:
+            file.write(clean_answer)
+
+        print("\nLLM response saved as llm_foods.txt")
 
 
 if __name__ == "__main__":

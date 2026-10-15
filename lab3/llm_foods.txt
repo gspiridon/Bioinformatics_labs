@@ -1,0 +1,17 @@
+| Amino Acid | Dish 1 | Dish 2 | Dish 3 |
+| --- | --- | --- | --- |
+| Phe | Chicken Fricassee | Vegetable Stir-Fry | Lentil Curry |
+| Lys | Macaroni and Cheese | Baked Salmon | Spinach Quiche |
+| Gln | Vegetable Soup with Potatoes and Carrots | Grilled Chicken Breast |
+| Butternut Squash Risotto |
+| Leu | Boiled Rice with Steamed Vegetables | Vegetable Pasta Salad | Meatb
+Meatballs with Marinara Sauce |
+| Ser | Omelette with Vegetables | Baked Sweet Potato with Black Beans | Ch
+Chicken and Vegetable Skewers |
+| Asp | Vegetable and Bean Chili | Grilled Shrimp with Lemon | Roasted Vege
+Vegetable and Goat Cheese Tart |
+| Ile | Stuffed Bell Peppers | Baked Chicken Thighs with Herbs | Vegetable 
+and Lentil Stew |
+| Asn | Vegetable and Mushroom Risotto | Spinach and Feta Stuffed Chicken B
+Breast | Grilled Vegetable and Hummus Wrap |
+
