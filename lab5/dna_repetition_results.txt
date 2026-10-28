@@ -1,0 +1,56 @@
+DNA sequence length: 2088 nucleotides
+Generated brute-force patterns: 5440
+All detected repetitions: 167
+Distinct non-overlapping repetitions: 50
+
+Motif     Repeated Sequence   Motif Length   Total Length   Start     End       
+CCT       CCTCCT              3              6              22        27        
+TTTT      TTTTTTTT            4              8              31        38        
+TTT       TTTTTT              3              6              48        53        
+TTT       TTTTTT              3              6              55        60        
+TCTT      TCTTTCTT            4              8              110       117       
+AGC       AGCAGC              3              6              153       158       
+GCA       GCAGCA              3              6              166       171       
+AAAAA     AAAAAAAAAA          5              10             184       193       
+TGT       TGTTGT              3              6              262       267       
+ACA       ACAACA              3              6              271       276       
+AAA       AAAAAA              3              6              317       322       
+AGCT      AGCTAGCT            4              8              323       330       
+ATAA      ATAAATAA            4              8              388       395       
+TTGC      TTGCTTGC            4              8              451       458       
+GGAA      GGAAGGAA            4              8              540       547       
+CAG       CAGCAG              3              6              568       573       
+CAG       CAGCAG              3              6              576       581       
+TTT       TTTTTT              3              6              612       617       
+CAA       CAACAA              3              6              627       632       
+GAG       GAGGAG              3              6              722       727       
+TGT       TGTTGT              3              6              732       737       
+AAAC      AAACAAAC            4              8              803       810       
+AGA       AGAAGA              3              6              879       884       
+GGG       GGGGGG              3              6              909       914       
+TTG       TTGTTG              3              6              1001      1006      
+TAC       TACTAC              3              6              1037      1042      
+ATCT      ATCTATCT            4              8              1059      1066      
+ATG       ATGATG              3              6              1128      1133      
+AAAT      AAATAAAT            4              8              1209      1216      
+GTAA      GTAAGTAA            4              8              1227      1234      
+CCT       CCTCCT              3              6              1269      1274      
+TTA       TTATTA              3              6              1287      1292      
+ATT       ATTATT              3              6              1293      1298      
+AAAG      AAAGAAAG            4              8              1364      1371      
+CTT       CTTCTT              3              6              1398      1403      
+CAC       CACCACCAC           3              9              1471      1479      
+CAC       CACCACCAC           3              9              1480      1488      
+TAA       TAATAA              3              6              1551      1556      
+GTAA      GTAAGTAA            4              8              1557      1564      
+ATTT      ATTTATTT            4              8              1659      1666      
+CAA       CAACAA              3              6              1709      1714      
+GAG       GAGGAG              3              6              1769      1774      
+GCA       GCAGCA              3              6              1789      1794      
+TAA       TAATAATAA           3              9              1818      1826      
+AAA       AAAAAA              3              6              1852      1857      
+TCC       TCCTCC              3              6              1891      1896      
+ATT       ATTATT              3              6              1951      1956      
+ATT       ATTATT              3              6              2030      2035      
+AAAAA     AAAAAAAAAA          5              10             2073      2082      
+AAA       AAAAAA              3              6              2083      2088      

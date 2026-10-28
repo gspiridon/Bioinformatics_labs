@@ -1,0 +1,28 @@
+Original DNA sequence length: 2088 bp
+
+DNA fragments
+
+Fragment 1: 1801 bp, positions 146-1946
+Fragment 2: 867 bp, positions 824-1690
+Fragment 3: 1715 bp, positions 1-1715
+Fragment 4: 1334 bp, positions 353-1686
+Fragment 5: 1663 bp, positions 333-1995
+Fragment 6: 1028 bp, positions 74-1101
+Fragment 7: 1707 bp, positions 171-1877
+Fragment 8: 1367 bp, positions 137-1503
+Fragment 9: 790 bp, positions 1081-1870
+Fragment 10: 1270 bp, positions 738-2007
+
+Results
+
+Lane    Length (bp)    Molecular Weight (kDa)   Migration Distance (mm)  
+1       1801           1188.66                  30.50                    
+2       867            572.22                   45.55                    
+3       1715           1131.90                  31.51                    
+4       1334           880.44                   36.68                    
+5       1663           1097.58                  32.14                    
+6       1028           678.48                   42.04                    
+7       1707           1126.62                  31.61                    
+8       1367           902.22                   36.18                    
+9       790            521.40                   47.46                    
+10      1270           838.20                   37.69                    
